@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire", "Hangfire\Hangfire.csproj", "{81A9F45C-6205-4E17-9D72-2857E81351EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireWithDotnet", "HangfireWithDotnet\HangfireWithDotnet.csproj", "{81A9F45C-6205-4E17-9D72-2857E81351EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
